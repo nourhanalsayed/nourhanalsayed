@@ -31,8 +31,6 @@
 - 4444
 - nano
 - sayed
-- mjnune
-- su3ad
 
 <br><br>
 
