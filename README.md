@@ -18,6 +18,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer
+- 
 - Playing CTF's at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
@@ -155,6 +156,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [nurhansayed](https://github.com/0xabdulkhalid)
 
-Last Edited on: 09/11/2022
+Last Edited on: 29/11/2022
